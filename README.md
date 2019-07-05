@@ -1,6 +1,6 @@
-#brincolab-ipcluster-scripts
+# brincolab-ipcluster-scripts
 
-##Contenidos
+## Contenidos
 En este repositorio hay 3 script de python que nos permiten realizar distintas acciones (auto explicativas):
 
 1. `check_ipcluster_status.py`: Nos permite obtener el estado del cluster de ipython. En el caso de que este andando correctamente, mostrara la cantidad de kernels del cluster. En el caso contrario aparecera el mensaje `Can't communicate with cluster`.
@@ -10,8 +10,8 @@ En este repositorio hay 3 script de python que nos permiten realizar distintas a
 3. `shutdown.py`: Apaga el controlador y los motores asociados al cluster
 
 -------
-##Instrucciones
-####Desde brincolab1
+## Instrucciones
+#### Desde brincolab1
 
 1. Activar el entorno virtual `ipynode` (contiene las librerias necesarias para ejecutar los archivos)
 ```
